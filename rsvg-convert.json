@@ -1,8 +1,8 @@
 {
-    "version": "2.40.16",
+    "version": "2.40.20",
     "homepage": "https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html",
     "license": "GPL2",
-    "url": "http://downloads.sourceforge.net/project/tumagcc/rsvg-convert-dll-2.40.16.7z",
-    "hash": "sha1:d9ae6c09181e39b71a3ae9c5069b3fb98a4ba65c",
+    "url": "http://downloads.sourceforge.net/project/tumagcc/rsvg-convert-dll-2.40.20.7z",
+    "hash": "sha1:27227a4b59e122958df5ed9214a249a01283cf32"
     "bin": "rsvg-convert.exe"
 }
